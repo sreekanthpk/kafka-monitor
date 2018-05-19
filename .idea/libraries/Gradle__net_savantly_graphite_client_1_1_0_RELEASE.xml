@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.savantly:graphite-client:1.1.0-RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.savantly/graphite-client/1.1.0-RELEASE/6e55c6fce04405d337fea63d0b2c2c2407f5cd86/graphite-client-1.1.0-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.savantly/graphite-client/1.1.0-RELEASE/588f79c6098d3a639ea6d7253c7b0244b4092c68/graphite-client-1.1.0-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
